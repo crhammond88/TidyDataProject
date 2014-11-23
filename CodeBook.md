@@ -38,9 +38,9 @@ The remaining variables are the means or standard deviations of the variables me
 
 
 ##Original Information
-The following is a copy of the original README.txt included in the data set"
+The following is a copy of the original README.txt included in the data set:
 
-Human Activity Recognition Using Smartphones Dataset
+###Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
