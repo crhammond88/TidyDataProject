@@ -21,3 +21,6 @@ To execute the code, download and extract the dataset into the same folder as ru
 ## Dependencies
 The "data.table" package is required to use run_analysis.R.
 Use install.packages("data.table") if you do not have it already.
+
+## CodeBook
+Please see CodeBook.md for more information about the data set.
